@@ -30,3 +30,6 @@ MANIFEST
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
+/build/
+/dist/
+/trade_db_etl.egg-info/
