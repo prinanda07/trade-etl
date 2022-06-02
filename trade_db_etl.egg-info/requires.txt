@@ -1,0 +1,4 @@
+boto3
+fake-awsglue
+pyspark
+psycopg2
